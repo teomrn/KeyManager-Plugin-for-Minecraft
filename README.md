@@ -1,5 +1,7 @@
-# 🔐 HoriziaKeys - Système de Clés Avancé
-HoriziaKeys est un plugin Minecraft conçu pour enrichir l'expérience roleplay de votre serveur avec un système de sécurité immersif et réaliste. Transformez vos portes en véritables systèmes de verrouillage avec des clés personnalisées, un mini-jeu de crochetage captivant, et un système de permissions sophistiqué. Que vous soyez propriétaire d'une maison, invité de confiance, ou cambrioleur expérimenté, HoriziaKeys offre une expérience unique qui renforce l'immersion et les interactions entre joueurs.
+# 🔐 KeyManager - Système de Clés Avancé
+**KeyManager** est un plugin Minecraft conçu pour enrichir l'expérience **rôleplay** de votre serveur avec un système de sécurité immersif et réaliste. Transformez vos portes en véritables **systèmes de verrouillage** avec des **clés personnalisées**, un **mini-jeu de crochetage** captivant, et un **système de permissions sophistiqué**.
+
+``Que vous soyez propriétaire d'une maison, invité de confiance, ou cambrioleur expérimenté, KeyManager offre une expérience unique qui renforce l'immersion et les interactions entre joueurs.``
 
 ## ✨ Fonctionnalités Principales
 ### 🗝️ Système de Clés Intelligent
