@@ -123,7 +123,7 @@
 
 ``yamlpermissions:``
 
-      horiziakeys.admin:
+      keymanager.admin:
         description: "Accès aux commandes administrateur"
         default: op
     
