@@ -138,4 +138,4 @@
 
 **https://youtu.be/X5hgRsEd7as**
 
-### Pour toute question concernant ce plugin Minecraft, n'hésitez pas à me contacter sur Discord : t3mrn.
+*Si vous êtes intéressé par ce plugin Minecraft ou si vous avez la moindre question à son sujet, vous pouvez me contacter sur mon Discord* ***@t3mrn***.
